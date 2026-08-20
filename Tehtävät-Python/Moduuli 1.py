@@ -1,0 +1,1 @@
+print("Hey, Ricards Aleksejuks")
